@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+sentence-transformers
+chromadb
+llama-cpp-python
+python-docx
+pytesseract
+pdfplumber
